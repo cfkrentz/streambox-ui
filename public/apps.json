@@ -1,0 +1,17 @@
+[
+  {
+    "label": "Add App",
+    "url": "#add",
+    "icon": "assets/icons/add-app-icon.jpg"
+  },
+  {
+    "label": "Patreon",
+    "url": "https://www.Patreon.com",
+    "icon": "assets/icons/patreon.png"
+  },
+  {
+    "label": "YouTube",
+    "url": "https://www.youtube.com",
+    "icon": "assets/icons/youtube.png"
+  }
+]
