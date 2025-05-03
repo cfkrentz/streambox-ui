@@ -32,3 +32,7 @@ cd streambox-ui
 
 # Optional: set up to auto-launch on boot
 # (instructions coming soon)
+
+
+
+. scripts/.venv/bin/activate && python scripts/input_listener.py
