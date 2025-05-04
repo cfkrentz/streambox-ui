@@ -30,7 +30,7 @@ fetch("apps.json")
           openAddAppModal(); // IMPLEMENT LATER
         } else {
           dashboard.style.display = "none";
-          window.electronAPI.launchApp(`firefox --kiosk "${app.url}"`);
+          window.electronAPI.launchApp(`firefox --new-instance --no-remote --kiosk "${app.url}"`);
         }
       };
 
