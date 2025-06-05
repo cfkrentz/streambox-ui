@@ -27,7 +27,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/streambox-ui.git
+git clone https://github.com/cfkrentz/streambox-ui.git
 cd streambox-ui
 
 # Optional: set up to auto-launch on boot
